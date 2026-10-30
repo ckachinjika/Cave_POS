@@ -1,0 +1,594 @@
+{
+  "source": "C:\\Users\\DELL\\Documents\\2018-19\\18th Cave Proposed Start up stocks_1_No Prices.xlsx",
+  "count": 84,
+  "products": [
+    {
+      "name": "Black Label (cans)",
+      "category": "Imported Beers and drinks",
+      "unit": "can",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Breezer Blue",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Breezer Strawberry",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Budweiser",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Castle Lite",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Corona",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Heineken",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Heineken Silver",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Hunters Dry",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Hunters Gold",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Savanna Dry",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Windhoek Draught",
+      "category": "Imported Beers and drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Amarula",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Ballantine’s",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Cactus Jack",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Captain Morgan",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Chivas",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Famous Grouse",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Gelenlivet 12",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Gentleman Jack",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Glenfidich - 12 years",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Glenfidich - 15 years",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Grant’s",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "J&B",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Jack Daniel’s",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Jack Daniel’s Honey",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Jägermeister",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Jameson",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Jameson Select Reserve",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Jameson Stout Edition",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Jameson Triple Triple",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "KWV 10 Years",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Monkey Shoulder",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Peaky Blinder",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Ponchos",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Singleton - 12 Years",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Smirnoff Vodka",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Southern Comfort",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Stretton’s (Blue & Pink)",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Tequila Chocolate",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Tequila Gold",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Tequila Silver",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Tullamore D.E.W.",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "VAT 69",
+      "category": "Imported Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Bottled Wines (assorted)",
+      "category": "Imported Wines",
+      "unit": "bottle",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Cellar Cask",
+      "category": "Imported Wines",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Drostdy-Hof",
+      "category": "Imported Wines",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Namaqua Sweet Rosé",
+      "category": "Imported Wines",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Overmeer White",
+      "category": "Imported Wines",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Castel",
+      "category": "Local Beers and Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Chill",
+      "category": "Local Beers and Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Doppel",
+      "category": "Local Beers and Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Green",
+      "category": "Local Beers and Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Kuche Kuche",
+      "category": "Local Beers and Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Pomme",
+      "category": "Local Beers and Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Sapitwa",
+      "category": "Local Beers and Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Special",
+      "category": "Local Beers and Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Camaradas Brandy",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Camaradas Gin",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "CapeMac Whiskey",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Konyagi (carton)",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Konyagi (carton, medium)",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Konyagi (carton, small)",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "MW Gin",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "MW Vodka",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Premier Brandy",
+      "category": "Local Whiskies and Spirits",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Appletiser/Grapetiser",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Ginger Schweppes",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Juices",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Lime Rose’s",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Minerals",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Red Bull",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Sobo Orange Squash",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Soda Water",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Tonic",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Ukwaju",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Water",
+      "category": "Non Alcoholic Drinks",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Crisps",
+      "category": "Snacks & Cigarettes",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Dunhill",
+      "category": "Snacks & Cigarettes",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Nuts",
+      "category": "Snacks & Cigarettes",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Pall Mall Kings",
+      "category": "Snacks & Cigarettes",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Pall Mall Menthol",
+      "category": "Snacks & Cigarettes",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Peter Styvesant",
+      "category": "Snacks & Cigarettes",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    },
+    {
+      "name": "Tabasco",
+      "category": "Snacks & Cigarettes",
+      "unit": "each",
+      "price": null,
+      "barcode": ""
+    }
+  ]
+}
